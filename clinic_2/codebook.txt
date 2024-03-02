@@ -214,7 +214,7 @@ Roof Matl (Nominal): Roof material
        Membran	Membrane
        Metal	Metal
        Roll	Roll
-       Tar&Grv	Gravel & Tar
+       Tar&v	Gravel & Tar
        WdShake	Wood Shakes
        WdShngl	Wood Shingles
 		
