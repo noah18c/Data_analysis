@@ -98,16 +98,16 @@ Neighborhood (Nominal): Physical locations within Ames city limits (map availabl
 
        Blmngtn	Bloomington Heights
        Blueste	Bluestem
-       BrDale	Briardale
+       BrDale	       Briardale
        BrkSide	Brookside
        ClearCr	Clear Creek
        CollgCr	College Creek
        Crawfor	Crawford
        Edwards	Edwards
        Gilbert	Gilbert
-       Greens	Greens
+       Greens	       Greens
        GrnHill	Green Hills
-       IDOTRR	Iowa DOT and Rail Road
+       IDOTRR	       Iowa DOT and Rail Road
        Landmrk	Landmark
        MeadowV	Meadow Village
        Mitchel	Mitchell
